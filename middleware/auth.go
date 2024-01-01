@@ -4,7 +4,7 @@ import (
 	"context"
 	"net/http"
 
-	"github.com/shdiqq/task-5-pbi-btpns-Shadiq/helpers"
+	"github.com/SanPrastiwa/task-5-pbi-btpns-SanPrastiwa/helpers"
 )
 
 func Auth(next http.Handler) http.Handler {

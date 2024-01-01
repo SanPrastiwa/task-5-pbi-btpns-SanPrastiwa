@@ -5,9 +5,9 @@ import (
 	"log"
 	"net/http"
 
+	"github.com/SanPrastiwa/task-5-pbi-btpns-SanPrastiwa/config"
+	"github.com/SanPrastiwa/task-5-pbi-btpns-SanPrastiwa/routes"
 	"github.com/gorilla/mux"
-	"github.com/shdiqq/task-5-pbi-btpns-Shadiq/config"
-	"github.com/shdiqq/task-5-pbi-btpns-Shadiq/routes"
 )
 
 func main() {

@@ -1,9 +1,9 @@
 package routes
 
 import (
+	"github.com/SanPrastiwa/task-5-pbi-btpns-SanPrastiwa/controllers/photocontroller"
+	"github.com/SanPrastiwa/task-5-pbi-btpns-SanPrastiwa/middleware"
 	"github.com/gorilla/mux"
-	"github.com/shdiqq/task-5-pbi-btpns-Shadiq/controllers/photocontroller"
-	"github.com/shdiqq/task-5-pbi-btpns-Shadiq/middleware"
 )
 
 func PhotoRoutes(router *mux.Router) {

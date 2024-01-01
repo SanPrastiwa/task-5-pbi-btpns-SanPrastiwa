@@ -4,11 +4,11 @@ import (
 	"encoding/json"
 	"net/http"
 
+	"github.com/SanPrastiwa/task-5-pbi-btpns-SanPrastiwa/config"
+	"github.com/SanPrastiwa/task-5-pbi-btpns-SanPrastiwa/helpers"
+	"github.com/SanPrastiwa/task-5-pbi-btpns-SanPrastiwa/models/entity"
+	"github.com/SanPrastiwa/task-5-pbi-btpns-SanPrastiwa/models/validation"
 	"github.com/go-playground/validator/v10"
-	"github.com/shdiqq/task-5-pbi-btpns-Shadiq/config"
-	"github.com/shdiqq/task-5-pbi-btpns-Shadiq/helpers"
-	"github.com/shdiqq/task-5-pbi-btpns-Shadiq/models/entity"
-	"github.com/shdiqq/task-5-pbi-btpns-Shadiq/models/validation"
 )
 
 type LoginSuccess struct {

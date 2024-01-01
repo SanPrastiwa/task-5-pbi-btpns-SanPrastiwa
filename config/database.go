@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/shdiqq/task-5-pbi-btpns-Shadiq/models/entity"
+	"github.com/SanPrastiwa/task-5-pbi-btpns-SanPrastiwa/models/entity"
 	"gorm.io/driver/mysql"
 	"gorm.io/gorm"
 )

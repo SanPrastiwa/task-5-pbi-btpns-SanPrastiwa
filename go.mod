@@ -1,4 +1,4 @@
-module github.com/shdiqq/task-5-pbi-btpns-Shadiq
+module github.com/SanPrastiwa/task-5-pbi-btpns-SanPrastiwa
 
 go 1.21
 

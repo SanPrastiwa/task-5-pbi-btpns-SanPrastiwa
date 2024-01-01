@@ -1,8 +1,8 @@
 package routes
 
 import (
+	"github.com/SanPrastiwa/task-5-pbi-btpns-SanPrastiwa/controllers/authcontroller"
 	"github.com/gorilla/mux"
-	"github.com/shdiqq/task-5-pbi-btpns-Shadiq/controllers/authcontroller"
 )
 
 func AuthRoutes(router *mux.Router) {
